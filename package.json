@@ -1,0 +1,23 @@
+{
+  "name": "smailpro-temp-mail",
+  "version": "1.0.0",
+  "description": "Best Temp Mail Ever",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mr-sonj/smailpro-temp-mail.git"
+  },
+  "keywords": [
+    "temp",
+    "mail"
+  ],
+  "author": "Nguyen Van Tan <mr.sonj@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr-sonj/smailpro-temp-mail/issues"
+  },
+  "homepage": "https://github.com/mr-sonj/smailpro-temp-mail#readme"
+}
