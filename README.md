@@ -2,7 +2,7 @@
 
 The **temporary email address** . If you need quality bulk GMAIL accounts free, you've come to the right place. You just choose the GMAIL and use, avoid spam with a free secure e-mail address. [temp mail ](https://smailpro.com/)
 
-♡ [temp mail](https://smailpro.com/)
+[temp mail](https://smailpro.com/)
 
 ---
 
