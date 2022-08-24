@@ -1,6 +1,6 @@
 {
   "name": "smailpro-temp-mail",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Best Temp Mail Ever",
   "main": "src/index.js",
   "scripts": {
